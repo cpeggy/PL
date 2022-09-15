@@ -4,6 +4,6 @@
 - 姓名：簡珮軒
 - 這裡是我程式語言學習的輸出天地
 ## 課程作業區
-[]< >
+[]<https://github.com/cpeggy/PL/blob/main/Python01.ipynb>
 ## 作業連結區
 ## 專題連結區
