@@ -6,6 +6,6 @@
 ## 課程作業區
 - [練習0](https://github.com/cpeggy/PL/blob/main/Python01.ipynb)
 - [練習1](https://github.com/cpeggy/PL/blob/main/Python02.ipynb)
-- [練習2]()
+- [練習2](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
 ## 作業連結區
 ## 專題連結區
