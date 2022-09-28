@@ -7,5 +7,7 @@
 - [練習0](https://github.com/cpeggy/PL/blob/main/Python01.ipynb)
 - [練習1](https://github.com/cpeggy/PL/blob/main/Python02.ipynb)
 - [練習2](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
+- [參考1](https://openhome.cc/Gossip/Encoding/Python.html)
+- [參考2](https://www.techiedelight.com/zh-tw/count-occurrences-of-an-item-in-a-python-list/)
 ## 作業連結區
 ## 專題連結區
