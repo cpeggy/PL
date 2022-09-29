@@ -4,10 +4,11 @@
 - ✨ 姓名：簡珮軒
 - ✨ 這裡是我程式語言學習的輸出天地
 ## 課程作業區
-- [練習0](https://github.com/cpeggy/PL/blob/main/Python01.ipynb)
-- [練習1](https://github.com/cpeggy/PL/blob/main/Python02.ipynb)
-- [練習2](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
-- [參考1](https://openhome.cc/Gossip/Encoding/Python.html)
-- [參考2](https://www.techiedelight.com/zh-tw/count-occurrences-of-an-item-in-a-python-list/)
+### [練習0](https://github.com/cpeggy/PL/blob/main/Python01.ipynb)
+### [練習1](https://github.com/cpeggy/PL/blob/main/Python02.ipynb)
+### [練習2](http://loca)
 ## 作業連結區
+### [作業1](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
+#### [參考1](https://openhome.cc/Gossip/Encoding/Python.html)
+#### [參考2](https://www.techiedelight.com/zh-tw/count-occurrences-of-an-item-in-a-python-list/)
 ## 專題連結區
