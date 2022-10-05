@@ -12,5 +12,4 @@
 ## 作業連結區
 ### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
-#### - [參考2](https://www.techiedelight.com/zh-tw/count-occurrences-of-an-item-in-a-python-list/)
 ## 專題連結區
