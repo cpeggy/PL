@@ -13,4 +13,6 @@
 ##   作業連結區
 ### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
+### - [10/6作業2](https://github.com/cpeggy/PL/blob/main/HW2.ipynb)
+#### - [參考1](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3)
 ## 專題連結區
