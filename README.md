@@ -11,7 +11,7 @@
 ### - [9/29導航演示]尚未完成 
 #### ↑延伸作業一二三都在這裡↑
 ##   作業連結區
-### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
+### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Homework1/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
 ### - [10/6作業2](https://github.com/cpeggy/PL/blob/main/Homework2/practice10161formarkdown.ipynb)
 #### - [參考1-Dict](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3)
