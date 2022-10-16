@@ -13,7 +13,7 @@
 ##   作業連結區
 ### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
-### - [10/6作業2](https://github.com/cpeggy/PL/blob/main/practice1016.ipynb)
+### - [10/6作業2](https://github.com/cpeggy/PL/blob/main/practice10161formarkdown.ipynb)
 #### - [參考1-Dict](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3)
 #### - [參考2-list各種排序招](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 #### - [參考3-list去重](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
