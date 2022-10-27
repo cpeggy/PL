@@ -10,7 +10,7 @@
 ### - [9/29練習1](https://github.com/cpeggy/PL/blob/main/Practice4.ipynb)
 ### - [9/29導航演示]尚未完成 
 #### ↑延伸作業一二三都在這裡↑
-### - [10/27練習1]()
+### - [10/27練習1](https://github.com/cpeggy/PL/blob/main/practice1027.ipynb)
 ##   作業連結區
 ### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Homework1/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
