@@ -21,4 +21,5 @@
 #### - [參考2-list各種排序招](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 #### - [參考3-list去重](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 ### - [10/20作業3](https://github.com/cpeggy/PL/blob/main/practice1020.ipynb)
+#### - [參考1-beautifulsoup功能](https://ithelp.ithome.com.tw/articles/10196817)
 ## 專題連結區
