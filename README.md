@@ -10,6 +10,9 @@
 ### - [9/29練習1](https://github.com/cpeggy/PL/blob/main/Practice4.ipynb)
 ### - [9/29導航演示]尚未完成 
 #### ↑延伸作業一二三都在這裡↑
+### - [10/27練習1](https://github.com/cpeggy/PL/blob/main/practice1027.ipynb)
+## 課程補充區
+### - [plotly](https://plotly.com/python/)
 ##   作業連結區
 ### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Homework1/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
@@ -18,4 +21,5 @@
 #### - [參考2-list各種排序招](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 #### - [參考3-list去重](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 ### - [10/20作業3](https://github.com/cpeggy/PL/blob/main/practice1020.ipynb)
+#### - [參考1-beautifulsoup功能](https://ithelp.ithome.com.tw/articles/10196817)
 ## 專題連結區
