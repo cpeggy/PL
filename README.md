@@ -11,6 +11,7 @@
 ### - [9/29導航演示]尚未完成 
 #### ↑延伸作業一二三都在這裡↑
 ### - [10/27練習1](https://github.com/cpeggy/PL/blob/main/practice1027.ipynb)
+#### - [pandas介紹](https://medium.com/seaniap/pandas%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9-%E9%80%B2%E5%85%A5%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%9A%84%E9%A0%98%E5%9F%9F-be9894b3548)
 ## 課程補充區
 ### - [plotly](https://plotly.com/python/)
 ##   作業連結區
