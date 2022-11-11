@@ -39,4 +39,5 @@
 ### -[1104作業]()
 #### -[參考1]()所有資料參考來源
 #### -[參考2 四捨五入招](https://www.dotblogs.com.tw/YiruAtStudio/2021/03/13/153157)
+#### -[爬蟲soup運用整理](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
 ## 專題連結區
