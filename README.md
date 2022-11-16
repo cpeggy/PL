@@ -22,6 +22,7 @@
 ### - [week7](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### - [week8](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### - [week9](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+### - [week10](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 課程補充+好用連結區
 ### - [json視覺編輯器](https://jsoncrack.com/editor)
 ### - [plotly](https://plotly.com/python/)
@@ -36,8 +37,10 @@
 #### - [參考1-1-beautifulsoup功能](https://ithelp.ithome.com.tw/articles/10196817)繁中微詳解
 #### - [參考1-2-beautifulsoup完整功能介紹](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)英文詳解
 #### - [參考2 如何連有效內文網址一起爬+輸出](https://minkuanchen.medium.com/python%E7%88%AC%E8%9F%B2-%E7%88%AC%E5%8F%96ptt%E6%A8%99%E9%A1%8C%E5%8F%8A%E9%80%A3%E7%B5%90-a9ba8131cf94)
-### -[1104作業](https://github.com/cpeggy/PL/tree/main/Homework4)
+### -[11/02作業4](https://github.com/cpeggy/PL/tree/main/Homework4)
 #### -[參考1]()所有資料參考來源
 #### -[參考2 四捨五入招](https://www.dotblogs.com.tw/YiruAtStudio/2021/03/13/153157)
-#### -[爬蟲soup運用整理](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
+#### -[參考3 爬蟲soup運用整理](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
+#### -[參考4 文字雲](https://jamleecute.web.app/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2-web-crawler-text-mining-python/)
+#### -[參考5 plotly氣泡圖](https://www.twblogs.net/a/6081bb18b586f7f70960fdb7)
 ## 專題連結區
