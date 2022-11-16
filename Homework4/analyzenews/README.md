@@ -1,4 +1,4 @@
-## 文本
+## 文本分析
 ### [中時新聞網](https://github.com/cpeggy/PL/blob/main/Homework4/analyzenews/formalforhw1.ipynb)
 ### [奇摩新聞](https://github.com/cpeggy/PL/blob/main/Homework4/analyzenews/formalforhw2.ipynb)
 ### [遠見](https://github.com/cpeggy/PL/blob/main/Homework4/analyzenews/formalforhw3.ipynb)
