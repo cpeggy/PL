@@ -38,7 +38,7 @@
 #### - [參考1-2-beautifulsoup完整功能介紹](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)英文詳解
 #### - [參考2 如何連有效內文網址一起爬+輸出](https://minkuanchen.medium.com/python%E7%88%AC%E8%9F%B2-%E7%88%AC%E5%8F%96ptt%E6%A8%99%E9%A1%8C%E5%8F%8A%E9%80%A3%E7%B5%90-a9ba8131cf94)
 ### -[11/02作業4](https://github.com/cpeggy/PL/tree/main/Homework4)
-#### -[參考1]()所有資料參考來源
+#### -[參考1](Homework4/reference.txt)圖表參考資料來源
 #### -[參考2 四捨五入招](https://www.dotblogs.com.tw/YiruAtStudio/2021/03/13/153157)
 #### -[參考3 爬蟲soup運用整理](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
 #### -[參考4 文字雲](https://jamleecute.web.app/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2-web-crawler-text-mining-python/)
