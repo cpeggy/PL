@@ -33,7 +33,7 @@
 #### - [參考1-Dict](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3)
 #### - [參考2-list各種排序招](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 #### - [參考3-list去重](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
-### - [10/20_](https://github.com/cpeggy/PL/blob/main/practice1020.ipynb)
+### - [10/20_爬蟲練習：集合PTT食物版](https://github.com/cpeggy/PL/blob/main/Homework3/README.md)
 #### - [參考1-1-beautifulsoup功能](https://ithelp.ithome.com.tw/articles/10196817)繁中微詳解
 #### - [參考1-2-beautifulsoup完整功能介紹](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)英文詳解
 #### - [參考2 如何連有效內文網址一起爬+輸出](https://minkuanchen.medium.com/python%E7%88%AC%E8%9F%B2-%E7%88%AC%E5%8F%96ptt%E6%A8%99%E9%A1%8C%E5%8F%8A%E9%80%A3%E7%B5%90-a9ba8131cf94)
