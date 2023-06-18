@@ -27,13 +27,13 @@
 ### - [json視覺編輯器](https://jsoncrack.com/editor)
 ### - [plotly](https://plotly.com/python/)
 ##   作業連結區
-### - [9/22作業1](https://github.com/cpeggy/PL/blob/main/Homework1/Practice3.ipynb)
+### - [9/22_聯集&交集&差集&對稱差集練習](https://github.com/cpeggy/PL/blob/main/Homework1/Practice3.ipynb)
 #### - [參考1](https://ithelp.ithome.com.tw/articles/10186540)
-### - [10/6作業2](https://github.com/cpeggy/PL/blob/main/Homework2/practice10162-formarkdown.ipynb)
+### - [10/6_json練習：找出理想訪談者](https://github.com/cpeggy/PL/blob/main/Homework2/practice10162-formarkdown.ipynb)
 #### - [參考1-Dict](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3)
 #### - [參考2-list各種排序招](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
 #### - [參考3-list去重](https://officeguide.cc/python-sort-sorted-tutorial-examples/)
-### - [10/20作業3](https://github.com/cpeggy/PL/blob/main/practice1020.ipynb)
+### - [10/20_](https://github.com/cpeggy/PL/blob/main/practice1020.ipynb)
 #### - [參考1-1-beautifulsoup功能](https://ithelp.ithome.com.tw/articles/10196817)繁中微詳解
 #### - [參考1-2-beautifulsoup完整功能介紹](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)英文詳解
 #### - [參考2 如何連有效內文網址一起爬+輸出](https://minkuanchen.medium.com/python%E7%88%AC%E8%9F%B2-%E7%88%AC%E5%8F%96ptt%E6%A8%99%E9%A1%8C%E5%8F%8A%E9%80%A3%E7%B5%90-a9ba8131cf94)
